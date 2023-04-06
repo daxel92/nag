@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nagsources/static/css/main.7a6fe8c0.css",
+    "main.js": "/nagsources/static/js/main.741a7cba.js",
+    "static/media/FotoEdificio.jpg": "/nagsources/static/media/FotoEdificio.118de013677a2bb24254.jpg",
+    "static/media/second-slide.jpg": "/nagsources/static/media/second-slide.5830ad5a39452e743608.jpg",
+    "static/media/first-slide.jpg": "/nagsources/static/media/first-slide.3e71becd91a10ec32f19.jpg",
+    "static/media/third-slide.jpg": "/nagsources/static/media/third-slide.a1fe7fecb1f2d066abd3.jpg",
+    "static/media/logo.jpg": "/nagsources/static/media/logo.65ea6d0699fd7ab7cb65.jpg",
+    "static/media/insta.png": "/nagsources/static/media/insta.8973add17c06ecac7853.png",
+    "static/media/whatsapp.png": "/nagsources/static/media/whatsapp.2251b0b3d6cc80510289.png",
+    "index.html": "/nagsources/index.html",
+    "main.7a6fe8c0.css.map": "/nagsources/static/css/main.7a6fe8c0.css.map",
+    "main.741a7cba.js.map": "/nagsources/static/js/main.741a7cba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a6fe8c0.css",
+    "static/js/main.741a7cba.js"
+  ]
+}
